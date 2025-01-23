@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Test.Controllers",
+    "\\Test.Services",
+    "\\Test.Services\\Interfaces",
+    "\\Test.Services\\Services"
+  ],
+  "SelectedNode": "\\Test.Services\\Services\\ProductBoardService.cs",
+  "PreviewInSolutionExplorer": false
+}

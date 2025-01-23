@@ -1,0 +1,16 @@
+IMPORTANT!
+- Navigate to Program.cs file and change the Bearer token on line 20ish
+
+THINGS TO TAKE NOTE:
+	BACKEND:
+		- Currently we dont have automapper to map our DTOs to our domain models. some say we dont need kay mu work gihapon sya pero I think its better nga we have. pwede ka magread2 about automapper if u want
+		- I added comments sa mga files nga I think need more information on what is lacking or what they do.
+		- Again we dont have repository kay we dont have db, atleast for phase 1. probably soon especially sa kato cron jobs where we might be needing task scheduler libraries
+
+	FRONTEND: 
+		- The stuff or roadblocks I shared with you sa office. Conclusion was if you can find a better framework for our ui then good, especially with the open panel. drawbacks would be limited functionality. 
+		- We can do the UI manually naman if we are confident sato ui skills sdjagasdsg
+		- Folder structure not so good pa, I think. but its a good start. 
+		- maybe learn about proper component structuring? kay im a 5/10 sa frontend jud 
+
+Ask lang if naa kay question kay basin naa koy na miss nga points :)

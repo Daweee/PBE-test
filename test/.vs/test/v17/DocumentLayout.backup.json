@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\test\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7616CE-9BF8-423A-9A6B-7922F6150196}|test\\test.csproj|c:\\test\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7616CE-9BF8-423A-9A6B-7922F6150196}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7616CE-9BF8-423A-9A6B-7922F6150196}|test\\test.csproj|c:\\test\\test\\test\\test.controllers\\productboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7616CE-9BF8-423A-9A6B-7922F6150196}|test\\test.csproj|solutionrelative:test\\test.controllers\\productboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7616CE-9BF8-423A-9A6B-7922F6150196}|test\\test.csproj|c:\\test\\test\\test\\test.services\\interfaces\\iproductboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7616CE-9BF8-423A-9A6B-7922F6150196}|test\\test.csproj|solutionrelative:test\\test.services\\interfaces\\iproductboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7616CE-9BF8-423A-9A6B-7922F6150196}|test\\test.csproj|c:\\test\\test\\test\\test.models\\domain\\productboardcompanymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7616CE-9BF8-423A-9A6B-7922F6150196}|test\\test.csproj|solutionrelative:test\\test.models\\domain\\productboardcompanymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7616CE-9BF8-423A-9A6B-7922F6150196}|test\\test.csproj|c:\\test\\test\\test\\test.services\\services\\productboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7616CE-9BF8-423A-9A6B-7922F6150196}|test\\test.csproj|solutionrelative:test\\test.services\\services\\productboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductBoardController.cs",
+              "DocumentMoniker": "C:\\test\\test\\test\\Test.Controllers\\ProductBoardController.cs",
+              "RelativeDocumentMoniker": "test\\Test.Controllers\\ProductBoardController.cs",
+              "ToolTip": "C:\\test\\test\\test\\Test.Controllers\\ProductBoardController.cs",
+              "RelativeToolTip": "test\\Test.Controllers\\ProductBoardController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:36:12.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductBoardService.cs",
+              "DocumentMoniker": "C:\\test\\test\\test\\Test.Services\\Services\\ProductBoardService.cs",
+              "RelativeDocumentMoniker": "test\\Test.Services\\Services\\ProductBoardService.cs",
+              "ToolTip": "C:\\test\\test\\test\\Test.Services\\Services\\ProductBoardService.cs",
+              "RelativeToolTip": "test\\Test.Services\\Services\\ProductBoardService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:00:51.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductBoardCompanyModel.cs",
+              "DocumentMoniker": "C:\\test\\test\\test\\Test.Models\\Domain\\ProductBoardCompanyModel.cs",
+              "RelativeDocumentMoniker": "test\\Test.Models\\Domain\\ProductBoardCompanyModel.cs",
+              "ToolTip": "C:\\test\\test\\test\\Test.Models\\Domain\\ProductBoardCompanyModel.cs",
+              "RelativeToolTip": "test\\Test.Models\\Domain\\ProductBoardCompanyModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:18:24.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductBoardService.cs",
+              "DocumentMoniker": "C:\\test\\test\\test\\Test.Services\\Interfaces\\IProductBoardService.cs",
+              "RelativeDocumentMoniker": "test\\Test.Services\\Interfaces\\IProductBoardService.cs",
+              "ToolTip": "C:\\test\\test\\test\\Test.Services\\Interfaces\\IProductBoardService.cs",
+              "RelativeToolTip": "test\\Test.Services\\Interfaces\\IProductBoardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:49:27.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\test\\test\\test\\Program.cs",
+              "RelativeDocumentMoniker": "test\\Program.cs",
+              "ToolTip": "C:\\test\\test\\test\\Program.cs",
+              "RelativeToolTip": "test\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:45:52.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

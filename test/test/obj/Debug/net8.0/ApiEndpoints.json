@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "test.Test.Controllers.ProductBoardController",
+    "Method": "GetProductBoardCompanyList",
+    "RelativePath": "api/ProductBoard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
